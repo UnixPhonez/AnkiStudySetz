@@ -1,2 +1,2 @@
 # AnkiStudySetz
-Anki Study Flashcard Sets
+Anki Study Flashcard Sets, .apkg Files For Various Classes
