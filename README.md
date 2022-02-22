@@ -8,3 +8,6 @@ Print of Management
 
 Old Testament
 - [Encountering Old Testament 131-152 Study Guide](https://github.com/UnixPhonez/AnkiStudySetz/blob/main/Old_Testament_Encountering_Old_Testament_131_152_Study_Guide-20220222112405.apkg)
+
+College Composition
+- [College Composition - Final Exam Study Guide](https://github.com/UnixPhonez/AnkiStudySetz/blob/main/College_Composition_Final_Exam_Study_Guide-20220222113731.apkg)
